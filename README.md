@@ -1,4 +1,4 @@
-![alt text](https://github.com/mosamircs/tourism-company/blob/master/reserve-room-hotel.png)
+![alt text](https://github.com/mosamircs/tourism-company/blob/main/reserve-room-hotel.png)
 ![alt text](https://github.com/mosamircs/tourism-company/blob/master/reserve-ticket-flight.png)
 ![alt text](https://github.com/mosamircs/tourism-company/blob/master/tourism_agency.drawio%20(1).png)
 ![alt text](https://github.com/mosamircs/tourism-company/blob/master/add-supplier.png)
